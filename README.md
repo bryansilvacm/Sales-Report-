@@ -4,6 +4,7 @@ Desafio DIO - Desafio de Projeto - Atualizando Relatório Financeiro com Foco na
 
 ## Objetivo do Desafio
 Modificar o relatório gerencial de vendas, focando na experiência do usuário, a fim de praticar os requisitos aprendidos em aula:
+
 * Posicionamento
 * Contraste  
 * Proporção áurea  
@@ -19,11 +20,11 @@ Outra etapa importante é a segmentação dos dados, o usuário pode filtrar e s
 
 Para melhor aproveitamento do espaço da tela e navegabilidade, o projeto foi desenvolvido em duas páginas, a primeira contém informações sobre as vendas e a segunda sobre os lucros. Para facilidade do usuário, foram desenvolvidos botões que permitem navegar pelas páginas. Outro ponto também é a navegação do gráfico de vendas por produtos e vendas por segmentos, onde o usuário navega clicando nos botões correspondentes.
 
-##Visualização dos Relatórios:
----
+## Visualização dos Relatórios:
 
 <img width="787" height="450" alt="image" src="https://github.com/user-attachments/assets/7312cc83-3f5f-4024-ac95-c00cab0ffb26" />
 <br>
+
 <img width="771" height="412" alt="image" src="https://github.com/user-attachments/assets/6050fb7c-4b9a-492a-a5b6-96daa36ced21" />
 
 <br>
